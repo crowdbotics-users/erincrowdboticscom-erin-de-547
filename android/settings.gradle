@@ -1,0 +1,3 @@
+rootProject.name = 'erincrowdboticscom_erin_de_547'
+
+include ':app'
